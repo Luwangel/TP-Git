@@ -110,8 +110,9 @@ Liste des étudiants ayant réussi ce TP
 * Changru LU,
 * Adrien AMOROS,
 * Martin LAGRANGE,
+* Marie Chidaine,
+* Romain Barre,
 * Oumou Salamata THIAM,
 * Cyprien Guillemot,
 * Romain GAGNAIRE,
 * Valentin BONINO.
-
