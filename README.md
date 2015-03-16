@@ -109,4 +109,3 @@ Liste des étudiants ayant réussi ce TP
 * Changru LU,
 * Adrien AMOROS,
 * Martin LAGRANGE.
-
